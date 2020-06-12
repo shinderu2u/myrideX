@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249320668216",
+    "firebase_url": "https://myridex-97cdb.firebaseio.com",
+    "project_id": "myridex-97cdb",
+    "storage_bucket": "myridex-97cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249320668216:android:a6a049fa226dd74361facd",
+        "android_client_info": {
+          "package_name": "com.fyp.myridex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249320668216-2cqf5t3rbai1apr9d022nefuvq6oip01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxYDcy-3WFLZbu71624zFsxJGmO5y5JCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249320668216-2cqf5t3rbai1apr9d022nefuvq6oip01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
